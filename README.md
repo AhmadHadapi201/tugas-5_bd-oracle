@@ -9,6 +9,9 @@
     link 'Localhost/Oracle/koneksi.php'.
     **Catatan : Link Sesuai dengan folder dan Nama file yang sudah kalian simpah**
     
-    ![Screenshot (12)](https://user-images.githubusercontent.com/95658885/144946062-86f4638c-0974-4e1c-a31c-260e157eb9b0.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/95658885/144946062-86f4638c-0974-4e1c-a31c-260e157eb9b0.png)
     
-    
+# 2. Membuat view
+     Selanjutnya adalah untuk membuat view
+     
+![Screenshot (15) - Copy](https://user-images.githubusercontent.com/95658885/144947554-a1800d38-1bd9-4d57-97fc-c04926124587.png)
