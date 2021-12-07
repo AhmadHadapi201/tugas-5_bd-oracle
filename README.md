@@ -34,10 +34,14 @@ menggunakan sublime Text 3. Berikut tampilannya!
 ![Screenshot (7)](https://user-images.githubusercontent.com/95658885/144949190-a223e65e-a4ee-4f8a-8888-a2a3c4320c81.png)
 
 # 4. Membuat Tabel Master
-    Setelah sukses koneksi, membuat view dan menjalankan di PHP maka kali ini kita 
- akan membuat Tabel Master / Data Tabel dari Database yang sudah kita buat di Oracle.
+Setelah sukses koneksi, membuat view dan menjalankan di PHP maka kali ini kita 
+akan membuat Tabel Master / Data Tabel dari Database yang sudah kita buat di Oracle.
+
 ![Screenshot (8)](https://user-images.githubusercontent.com/95658885/144949510-33a7d498-9fe1-4bbf-8dec-ab42f168118c.png)
+
 ![Screenshot (9)](https://user-images.githubusercontent.com/95658885/144949541-7036fc77-4194-4b77-a795-74ee11edc425.png)
+
 ![Screenshot (10)](https://user-images.githubusercontent.com/95658885/144949544-b90f5f02-d332-412a-b20d-20ce94c8d991.png)
+
 ![Screenshot (11)](https://user-images.githubusercontent.com/95658885/144949546-abe583dc-48a1-4a26-b4d8-18aa6a5bbe59.png)
 
